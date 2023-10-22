@@ -16,6 +16,7 @@
       <module>consumer</module>
       <module>ribbon</module>
       <module>fegin</module>
+      <module>configserver</module>
   </modules>
   <parent>
     <groupId>org.springframework.boot</groupId>
